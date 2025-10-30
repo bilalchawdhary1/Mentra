@@ -10,7 +10,7 @@ const bricolage = Bricolage_Grotesque({
 });
 
 export const metadata: Metadata = {
-  title: "Mentra 📚 - AI Teaching Assistant",
+  title: "Mentra - AI Teaching Assistant",
   description: "Real-time AI Teaching Platform",
 };
 
